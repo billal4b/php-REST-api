@@ -1,4 +1,4 @@
-# REST API with PHP &amp; MySql for mobile app or web app : 
+# REST API with PHP &amp; MySQL 
  
 In this example i will create new_table table and create rest api of new_table.You can check response for GET, POST, PUT and DELETE for list, create, update and delete. So let's just follow bellow step and you will get best api platform.
 
